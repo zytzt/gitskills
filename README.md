@@ -1,2 +1,2 @@
 # gitskills
-this is master file;
+this is dev file;
